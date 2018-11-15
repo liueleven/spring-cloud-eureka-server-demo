@@ -2,4 +2,4 @@
 
 SpringCloud Eureka Server 的一个学习Demo
 
-Eureka Client 出门左拐
+Eureka Client Demo 请出门左拐
